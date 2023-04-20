@@ -56,7 +56,7 @@ endmodule
 ## RTL realization:
 F1:
 
-![Screenshot (12)](https://user-images.githubusercontent.com/120115840/233417174-29afee92-f8e8-4ea0-92f3-b446e155ccc6.png)
+![Screenshot (14)](https://user-images.githubusercontent.com/120115840/233419128-0811f8be-225e-4d5f-a2c6-fa57e4b5fa24.png)
 
 F2:
 
