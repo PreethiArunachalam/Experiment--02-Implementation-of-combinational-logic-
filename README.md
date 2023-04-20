@@ -75,7 +75,7 @@ F2:
 
 ![Screenshot 2023-04-20 211242](https://user-images.githubusercontent.com/120115840/233418234-8d70d002-01b7-4bb2-85f1-c0798d99e5aa.png)
 
-![Screenshot 2023-04-20 211242](https://user-images.githubusercontent.com/120115840/233418415-e8180125-a4b8-47c1-abbc-2d31d122e11d.png)
+![Screenshot 2023-04-20 211754](https://user-images.githubusercontent.com/120115840/233419454-5168c36f-8c56-4f91-96e5-361f61f9a3a4.png)
 
 ## Result:
 Thus the given logic functions are implemented using  and their operations are verified using Verilog programming.
